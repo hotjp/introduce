@@ -13,7 +13,7 @@ baseurl: '/blog' #change it according to your repository name
 
 
 #Profile information
-name: 姜琦
+name: 心有萌虎
 tagline: 前端开发
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
